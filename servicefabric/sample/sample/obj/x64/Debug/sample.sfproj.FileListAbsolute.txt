@@ -1,0 +1,1 @@
+E:\Azure_POC\servicefabric\sample\sample\obj\x64\Debug\sample.sfprojResolveAssemblyReference.cache
